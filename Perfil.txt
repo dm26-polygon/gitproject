@@ -6,3 +6,5 @@ Tecnologias
 - HTML
 - CSS
 - JS
+
+Experiencia : 4 Años
