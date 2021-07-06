@@ -1,6 +1,6 @@
 Hola soy Desarrollador Backend
 
-Programador del Censa Experto en UI/UX
+Programador del Censa Experto en UI/UX Y SEO
 
 Tecnologias
 - HTML
