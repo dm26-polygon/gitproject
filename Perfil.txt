@@ -1,3 +1,8 @@
 Hola soy Desarrollador Backend
 
 Programador del SENA Experto en UI/UX
+
+Tecnologias
+- HTML
+- CSS
+- JS
