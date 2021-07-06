@@ -8,3 +8,8 @@ Tecnologias
 - JS
 
 Experiencia : 4 Años
+
+Aplicaciones
+- Chats 
+- Blogs
+- Landing Pages 
